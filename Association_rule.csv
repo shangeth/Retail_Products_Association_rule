@@ -1,0 +1,155 @@
+,Items bought together,Confidence
+0,"cereals, spaghetti, ground beef",67.64705882352942
+1,"cereals, nan, spaghetti, ground beef",67.64705882352942
+2,"olive oil, tomatoes, spaghetti",61.111111111111114
+3,"olive oil, tomatoes, nan, spaghetti",61.111111111111114
+4,"tomato sauce, spaghetti, ground beef",57.50000000000001
+5,"tomato sauce, nan, spaghetti, ground beef",57.50000000000001
+6,"cooking oil, spaghetti, ground beef",57.14285714285714
+7,"cooking oil, nan, spaghetti, ground beef",57.14285714285714
+8,"spaghetti, tomatoes, mineral water, ground beef",56.09756097560976
+9,"tomatoes, mineral water, nan, spaghetti, ground beef",56.09756097560976
+10,"spaghetti, chocolate, frozen vegetables, ground beef",53.48837209302326
+11,"spaghetti, milk, frozen vegetables, ground beef",53.48837209302326
+12,"ground beef, nan, spaghetti, frozen vegetables, chocolate",53.48837209302326
+13,"milk, ground beef, nan, spaghetti, frozen vegetables",53.48837209302326
+14,"red wine, spaghetti, eggs",52.83018867924528
+15,"red wine, nan, spaghetti, eggs",52.83018867924528
+16,"shrimp, spaghetti, ground beef",52.32558139534884
+17,"shrimp, nan, spaghetti, ground beef",52.32558139534884
+18,"milk, soup, frozen vegetables",50.0
+19,"milk, soup, nan, frozen vegetables",50.0
+20,"spaghetti, frozen smoothie, milk, mineral water",47.05882352941177
+21,"mineral water, milk, nan, spaghetti, frozen smoothie",47.05882352941177
+22,"milk, whole wheat pasta, spaghetti",45.45454545454546
+23,"milk, whole wheat pasta, nan, spaghetti",45.45454545454546
+24,"chocolate, herb & pepper, ground beef",44.117647058823536
+25,"chocolate, nan, herb & pepper, ground beef",44.117647058823536
+26,"spaghetti, chocolate, milk, frozen vegetables",44.06779661016949
+27,"milk, nan, spaghetti, frozen vegetables, chocolate",44.06779661016949
+28,"avocado, milk, spaghetti",41.666666666666664
+29,"avocado, milk, nan, spaghetti",41.666666666666664
+30,"milk, mineral water, frozen vegetables, eggs",41.1764705882353
+31,"eggs, mineral water, milk, nan, frozen vegetables",41.1764705882353
+32,"milk, soup, ground beef",41.09589041095891
+33,"chocolate, milk, mineral water, frozen vegetables",41.09589041095891
+34,"milk, soup, nan, ground beef",41.09589041095891
+35,"mineral water, milk, nan, frozen vegetables, chocolate",41.09589041095891
+36,"chicken, milk, ground beef",40.84507042253521
+37,"chicken, nan, milk, ground beef",40.84507042253521
+38,"milk, mineral water, frozen vegetables, ground beef",40.57971014492753
+39,"mineral water, milk, nan, frozen vegetables, ground beef",40.57971014492753
+40,"olive oil, whole wheat pasta, mineral water",40.27777777777778
+41,"olive oil, whole wheat pasta, nan, mineral water",40.27777777777778
+42,"olive oil, milk, nan, shrimp",40.0
+43,"chocolate, milk, soup",39.47368421052632
+44,"chocolate, milk, soup, nan",39.47368421052632
+45,"herb & pepper, spaghetti, ground beef",39.344262295081975
+46,"olive oil, milk, shrimp",39.344262295081975
+47,"nan, herb & pepper, spaghetti, ground beef",39.344262295081975
+48,"milk, herb & pepper, ground beef",39.13043478260869
+49,"milk, nan, herb & pepper, ground beef",39.13043478260869
+50,"herb & pepper, mineral water, ground beef",39.06250000000001
+51,"nan, herb & pepper, mineral water, ground beef",39.06250000000001
+52,"tomato sauce, ground beef",37.73584905660377
+53,"tomato sauce, nan, ground beef",37.73584905660377
+54,"escalope, pasta",37.28813559322034
+55,"pasta, escalope, nan",37.28813559322034
+56,"spaghetti, mineral water, frozen vegetables, ground beef",36.66666666666667
+57,"mineral water, ground beef, nan, spaghetti, frozen vegetables",36.66666666666667
+58,"chocolate, mineral water, frozen vegetables, ground beef",34.24657534246576
+59,"mineral water, nan, frozen vegetables, ground beef, chocolate",34.24657534246576
+60,"pepper, spaghetti, ground beef",33.78378378378378
+61,"pepper, nan, spaghetti, ground beef",33.78378378378378
+62,"chocolate, mineral water, frozen vegetables, shrimp",32.87671232876713
+63,"mineral water, shrimp, nan, frozen vegetables, chocolate",32.87671232876713
+64,"herb & pepper, ground beef",32.345013477088955
+65,"nan, herb & pepper, ground beef",32.345013477088955
+66,"grated cheese, spaghetti, ground beef",32.25806451612903
+67,"grated cheese, nan, spaghetti, ground beef",32.25806451612903
+68,"pasta, shrimp",32.20338983050847
+69,"pasta, nan, shrimp",32.20338983050847
+70,"spaghetti, frozen vegetables, ground beef",31.100478468899524
+71,"spaghetti, nan, frozen vegetables, ground beef",31.100478468899524
+72,"mineral water, nan, frozen vegetables, shrimp",30.681818181818183
+73,"mineral water, frozen vegetables, shrimp",30.508474576271183
+74,"olive oil, milk, mineral water, frozen vegetables",30.120481927710845
+75,"mineral water, olive oil, milk, nan, frozen vegetables",30.120481927710845
+76,"escalope, mushroom cream sauce",30.069930069930066
+77,"escalope, nan, mushroom cream sauce",30.069930069930066
+78,"cake, tomatoes, frozen vegetables",29.87012987012987
+79,"cake, tomatoes, nan, frozen vegetables",29.87012987012987
+80,"olive oil, spaghetti, mineral water, ground beef",29.87012987012987
+81,"mineral water, olive oil, nan, spaghetti, ground beef",29.87012987012987
+82,"chocolate, ground beef, mineral water, eggs",29.702970297029708
+83,"eggs, mineral water, nan, ground beef, chocolate",29.702970297029708
+84,"milk, tomatoes, frozen vegetables",29.523809523809526
+85,"milk, tomatoes, nan, frozen vegetables",29.523809523809526
+86,"light cream, chicken",29.059829059829056
+87,"light cream, chicken, nan",29.059829059829056
+88,"spaghetti, milk, mineral water, frozen vegetables",28.813559322033893
+89,"mineral water, milk, nan, spaghetti, frozen vegetables",28.813559322033893
+90,"burgers, milk, turkey",28.235294117647058
+91,"burgers, milk, turkey, nan",28.235294117647058
+92,"burgers, milk, cake",27.999999999999996
+93,"burgers, milk, cake, nan",27.999999999999996
+94,"spaghetti, mineral water, frozen vegetables, shrimp",27.77777777777778
+95,"mineral water, shrimp, nan, spaghetti, frozen vegetables",27.77777777777778
+96,"milk, soup, mineral water, frozen vegetables",27.710843373493976
+97,"soup, mineral water, milk, nan, frozen vegetables",27.710843373493976
+98,"olive oil, whole wheat pasta",27.14932126696833
+99,"olive oil, whole wheat pasta, nan",27.14932126696833
+100,"burgers, chocolate, turkey",27.058823529411764
+101,"burgers, chocolate, turkey, nan",27.058823529411764
+102,"spaghetti, tomatoes, mineral water, frozen vegetables",25.55555555555556
+103,"tomatoes, mineral water, nan, spaghetti, frozen vegetables",25.55555555555556
+104,"honey, fromage blanc",24.50980392156863
+105,"honey, nan, fromage blanc",24.50980392156863
+106,"olive oil, chocolate, mineral water, spaghetti",24.36974789915966
+107,"mineral water, olive oil, nan, spaghetti, chocolate",24.36974789915966
+108,"olive oil, chicken, milk",24.324324324324323
+109,"olive oil, chicken, nan, milk",24.324324324324323
+110,"tomatoes, frozen vegetables, shrimp",24.000000000000004
+111,"tomatoes, nan, frozen vegetables, shrimp",24.000000000000004
+112,"spaghetti, tomatoes, frozen vegetables",23.923444976076556
+113,"spaghetti, tomatoes, nan, frozen vegetables",23.923444976076556
+114,"chocolate, frozen vegetables, shrimp",23.255813953488374
+115,"chocolate, nan, frozen vegetables, shrimp",23.255813953488374
+116,"green tea, tomatoes, frozen vegetables",23.148148148148152
+117,"green tea, tomatoes, nan, frozen vegetables",23.148148148148152
+118,"ground beef, herb & pepper, french fries",23.076923076923077
+119,"nan, ground beef, herb & pepper, french fries",23.076923076923077
+120,"olive oil, soup, mineral water",22.543352601156073
+121,"olive oil, soup, nan, mineral water",22.543352601156073
+122,"olive oil, milk, ground beef",22.424242424242426
+123,"olive oil, milk, nan, ground beef",22.424242424242426
+124,"milk, soup, tomatoes",21.904761904761905
+125,"milk, soup, tomatoes, nan",21.904761904761905
+126,"spaghetti, chocolate, mineral water, shrimp",21.848739495798316
+127,"mineral water, shrimp, nan, spaghetti, chocolate",21.848739495798316
+128,"tomatoes, whole wheat rice, spaghetti",21.69811320754717
+129,"whole wheat rice, tomatoes, nan, spaghetti",21.69811320754717
+130,"spaghetti, frozen vegetables, shrimp",21.531100478468897
+131,"spaghetti, nan, frozen vegetables, shrimp",21.531100478468897
+132,"olive oil, milk, mineral water, spaghetti",21.1864406779661
+133,"spaghetti, milk, tomatoes, mineral water",21.1864406779661
+134,"mineral water, olive oil, milk, nan, spaghetti",21.1864406779661
+135,"tomatoes, mineral water, milk, nan, spaghetti",21.1864406779661
+136,"olive oil, milk, soup",21.09375
+137,"olive oil, milk, soup, nan",21.09375
+138,"green tea, tomatoes, ground beef",20.72072072072072
+139,"green tea, tomatoes, nan, ground beef",20.72072072072072
+140,"ground beef, herb & pepper, eggs",20.666666666666668
+141,"nan, ground beef, herb & pepper, eggs",20.666666666666668
+142,"olive oil, frozen vegetables, spaghetti",20.574162679425836
+143,"olive oil, nan, frozen vegetables, spaghetti",20.574162679425836
+144,"light cream, olive oil",20.512820512820515
+145,"light cream, olive oil, nan",20.512820512820515
+146,"olive oil, milk, frozen vegetables",20.338983050847457
+147,"olive oil, milk, nan, frozen vegetables",20.338983050847457
+148,"olive oil, milk, spaghetti",20.30075187969925
+149,"olive oil, milk, nan, spaghetti",20.30075187969925
+150,"olive oil, chicken, spaghetti",20.155038759689923
+151,"olive oil, chicken, nan, spaghetti",20.155038759689923
+152,"olive oil, pancakes, spaghetti",20.105820105820104
+153,"olive oil, pancakes, nan, spaghetti",20.105820105820104
